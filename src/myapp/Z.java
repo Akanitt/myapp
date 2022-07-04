@@ -1,4 +1,5 @@
 package myapp;
 
-public class Z implements X{
+public class Z extends X {
+
 }
