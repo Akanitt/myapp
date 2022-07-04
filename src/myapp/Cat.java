@@ -1,5 +1,5 @@
 package myapp;
 
 public class Cat {
-    String cat = "Cat";
+    String cat = "Cats";
 }
